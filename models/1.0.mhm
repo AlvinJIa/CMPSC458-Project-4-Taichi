@@ -1,0 +1,50 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags 1.0
+camera 2.5 1.0 -0.0827978823422 0.154334290819 0.0694698901351 1.1625
+modifier macrodetails-universal/Muscle 0.639000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.626000
+modifier chin/chin-width-decr|incr 0.524000
+modifier breast/nipple-point-decr|incr 0.034000
+modifier neck/neck-scale-depth-decr|incr -0.034000
+modifier neck/neck-scale-horiz-decr|incr 0.034000
+modifier head/head-scale-depth-decr|incr -1.000000
+modifier macrodetails/Gender 1.000000
+modifier forehead/forehead-trans-backward|forward -0.034000
+modifier macrodetails-height/Height 0.605000
+modifier breast/BreastSize 0.000000
+modifier head/head-invertedtriangular 1.000000
+modifier chin/chin-cleft-decr|incr -1.000000
+modifier macrodetails/Age 0.503000
+modifier neck/neck-double-decr|incr -0.552000
+modifier breast/BreastFirmness 0.000000
+modifier macrodetails/Asian 0.633000
+modifier eyebrows/eyebrows-angle-down|up -0.130000
+modifier breast/breast-point-decr|incr -0.170000
+modifier forehead/forehead-temple-decr|incr 1.000000
+modifier macrodetails/Caucasian 0.367000
+modifier head/head-scale-horiz-decr|incr 0.062000
+modifier breast/nipple-size-decr|incr -0.170000
+modifier chin/chin-prognathism-decr|incr 1.000000
+modifier eyebrows/eyebrows-trans-backward|forward -0.102000
+modifier eyebrows/eyebrows-trans-down|up 1.000000
+modifier head/head-scale-vert-decr|incr -0.006000
+modifier forehead/forehead-nubian-decr|incr -0.034000
+modifier chin/chin-bones-decr|incr 0.782000
+modifier macrodetails-universal/Weight 0.633000
+modifier breast/breast-volume-vert-down|up -0.142000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+skeleton cmu_mb.mhskel
+eyebrows eyebrow004 eb028b6d-3ff8-40c7-a2ea-4d9aa808b38d
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose tpose.bvh
+clothes male_elegantsuit01 1d2e3843-dda5-40a8-84a0-96666aa681bb
+clothes fedora 566dbd52-71d1-4d76-a799-0474a5a384db
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/middleage_asian_male/middleage_asian_male.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
